@@ -1,11 +1,31 @@
 [
    {"name":"sum sung",
-"price":20,
-"image":"person_01.jpg"},
+"price":"50$",
+"image":"/phonesimg/sumsung.jpg"},
 
 {
    "name":"Redmi6",
-   "price":20,
-   "image":"person_02.jpg"
-}
+   "price":"20$",
+   "image":"/phonesimg/redmi.jpg"
+},
+{
+   "name":"iphone",
+   "price":"200$",
+   "image":"/phonesimg/iphone.jpg"
+},
+{"name":"oneplus",
+"price":"60$",
+"image":"/phonesimg/oneplus.jpg"},
+{"name":"oppo",
+"price":"70$",
+"image":"/phonesimg/oppo.jpg"},
+
+{"name":"realme",
+"price":"40$",
+"image":"/phonesimg/realme.jpg"
+},
+{"name":"sonyMobile",
+"pricec":"100$",
+"image":"/phonesimg/sony mobile.jpg"}
+
 ]

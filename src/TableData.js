@@ -26,7 +26,9 @@ class TableData extends React.Component{
 
    <td>
       <img src={item.image}  className="PhoneImages" alt="Not Visible"/>
+      <p>{item.name}</p>
    </td>
+
   </tr>
  ))}
 
